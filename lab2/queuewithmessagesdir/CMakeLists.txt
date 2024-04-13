@@ -1,0 +1,1 @@
+add_library(QueueWithMessages include/Message.h src/Message.cpp include/Queue.h src/Queue.cpp)

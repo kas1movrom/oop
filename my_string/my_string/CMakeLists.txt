@@ -1,0 +1,1 @@
+add_library(my_string_lib String.cpp String.h)

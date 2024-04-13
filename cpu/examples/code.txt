@@ -1,0 +1,30 @@
+section dataMemory
+    first_value 1
+    second_value 10.453
+    example_int 19
+
+
+section programMemory
+    MOV _1 first_value
+    ADD _2 _1
+    THREAD id1
+    LSHIFT _1 _2
+    MOV _15 _1
+    THREAD id2
+    MOV _1 example_int
+    ADD _15 _1
+    GOTO end
+    id1: ADD _1 _2
+    ADD _1 example_int
+    ADD _15 example_int
+    THREAD-DONE id1
+    end: ADD _1 _2
+    MINUS second_value
+    GOTO end2
+    id2: ADD _3 second_value
+    ADD _4 second_value
+    MULT _4 _3
+    THREAD-DONE id2
+    end2: ADD _5 _4
+    ADD _5 _1
+

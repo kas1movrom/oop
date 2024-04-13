@@ -1,0 +1,17 @@
+# ninja log v5
+8	1047	7170056120227099	CMakeFiles/finallab2.dir/main.cpp.obj	c59017919978b4bc
+22	2387	7168168800643586	CMakeFiles/finallab2.dir/Dialog/dialog.cpp.obj	c06242b929d0a63b
+38	2526	7168168802084742	Queue/CMakeFiles/Queue.dir/Queue.cpp.obj	d2e8671ece4d445a
+1335	1543	7168351714362371	Queue/libQueue.a	c3c18789c65d66c
+30	1334	7168351712261093	Queue/CMakeFiles/Queue.dir/src/Queue.cpp.obj	8b5880b9f60df27a
+2388	3366	7168168810425271	Message/CMakeFiles/Message.dir/Message.cpp.obj	a8523bea7fd02536
+1928	2051	7168351719452064	Message/libMessage.a	e5f389566ec93eb4
+7	745	7171123745783466	finallab2.exe	399fc973adb0e8b3
+18	1076	7170056120560933	CMakeFiles/finallab2.dir/Dialog/src/dialog.cpp.obj	d4e56c2953b8a874
+1214	1927	7168351718164763	Message/CMakeFiles/Message.dir/src/Message.cpp.obj	e7a7f105a625c96d
+25	1116	7171126540543333	liblab2/CMakeFiles/lib.dir/src/Message.cpp.obj	1ddc1ee918e778a7
+22	974	7170055887634608	liblab2/CMakeFiles/lib.dir/src/Queue.cpp.obj	f287ada6b7872086
+1117	1377	7171126543186987	liblab2/liblib.a	1621ef7c03ef2182
+8	1448	7171094228083525	CMakeFiles/finallab2.dir/tests.cpp.obj	a0305babe745c987
+5	15989	7171134903677311	CMakeFiles/prog_testing.dir/tests/tests.cpp.obj	c59f571c002b70e7
+15989	54870	7171135292703644	prog_testing.exe	e94d3172c65b9f45

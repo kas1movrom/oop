@@ -1,0 +1,1 @@
+This repository contains my OOP labs. Each lab (1, 2, cpu) contains tasks that are stored in the tasks folder. The general task is in the file with the lab number, and the individual task is in the file, the name of which is similar to the result of the hash function. The main language: C++. Each lab was created in CLion IDE.
